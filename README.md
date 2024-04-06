@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm MAHITHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">ABOUT ME</h2>
+🎓Currently a Computer Science and engineering student
+<h2 align="left">CURRENT VENTURES</h2>
 
+- 🌱 I'm currently on a journey to become a proficient web developer
+- 📚 Currently Learning **JavaScript ,Backend development**
+- 🚀 My Focus:
+  🔒 **Cybersecurity:** Exploring the art of securing digital landscapes.
+  🎭 **Ethical Hacking:** Passionate about ethical hacking to uncover vulnerabilities and strengthen systems.
 - 📫 How to reach me **mahithashiboo001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
